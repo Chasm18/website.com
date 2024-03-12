@@ -1,0 +1,8 @@
+#gamescreen {
+    background-color: black;
+    position: absolute;
+    top: 3%;
+    left: 10%;
+    right: 10%;
+    width: 80%;
+}
